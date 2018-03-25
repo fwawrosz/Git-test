@@ -17,6 +17,7 @@ The class should have at least the following member functions:
 - Printing information about a customer
 - A destructor
 Create a driver to test the class Customer.
+
 Q2. (25 marks) Create a class called Room to represent a hotel room. The class has
 the following data members:
 - Room number ( of type integer)
@@ -30,6 +31,7 @@ The class should have at least the following member functions:
 - A function that prints information about a customer
 - A destructor
 Create a driver to test the class Room.
+
 Q3. (25 marks) Create a class called Reservation that holds reservations of
 customers. Customers must be assigned rooms during reservation. Assume that a
 customer can reserve only one room for a given date. The class will have the
@@ -47,6 +49,7 @@ The class should have at least the following member functions:
 - A function that prints information about a reservation
 - A destructor
 Create a driver to test the class Reservation.
+
 Q4. (25 marks) Create a class called Hotel to represent the hotel for which the
 system is created. The class has the following data members:
 - Name (string)
